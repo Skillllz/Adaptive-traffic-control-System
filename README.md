@@ -1,4 +1,4 @@
-===========================================================================
+
 ADAPTIVE TRAFFIC CONTROL WITH DEEP REINFORCEMENT LEARNING
 ===========================================================================
 NOTE - Download and run the folder with all the required modules
